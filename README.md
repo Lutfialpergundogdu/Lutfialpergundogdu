@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://orcid.org/0000-0002-2002-0952"><img src="https://img.shields.io/badge/ORCID-0000--0002--2002--0952-A6CE39?logo=orcid&logoColor=white" alt="ORCID 0000-0002-2002-0952"></a>
   <a href="https://tr.linkedin.com/in/l%C3%BCtfi-alper-g%C3%BCndo%C4%9Fdu"><img src="https://img.shields.io/badge/LinkedIn-L%C3%BCtfi%20Alper%20G%C3%BCndo%C4%9Fdu-0A66C2" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/based%20in-%C3%87anakkale%2C%20T%C3%BCrkiye-c8102e" alt="Based in Çanakkale, Türkiye">
+  <img src="https://img.shields.io/badge/based%20in-%C3%87anakkale%2C%20T%C3%BCrkiye-c8102e" alt="Based in Sakarya, Türkiye">
 </p>
 
 English · [Türkçe](#türkçe)
