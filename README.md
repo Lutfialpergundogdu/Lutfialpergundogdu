@@ -30,7 +30,7 @@ Windows desktop decision-support tool for wave energy in Turkish seas.
 
 `Python` `PySAM` `scikit-learn` `statsmodels` `pandas` `JavaScript` `Leaflet` `Plotly` `pywebview`
 
-### ☀️ Güneş Enerjisi Potansiyeli
+### ☀️ [Güneş Enerjisi Potansiyeli](https://github.com/Lutfialpergundogdu/Gunes_enerjisi_potansiyeli)
 
 Desktop application that estimates solar energy potential for a chosen location and date range from NASA POWER data, calculates energy by panel type, and forecasts future values with machine learning.
 
@@ -65,5 +65,5 @@ Desktop application that estimates solar energy potential for a chosen location 
 Türkiye'nin denizlerinin ve güneşinin ne kadar yenilenebilir enerji sağlayabileceğini ve bunun maliyetini araştırıyorum. Fiziksel simülasyonu (PySAM üzerinden SAM), açık yeniden analiz ve uydu verisini (Copernicus Marine, ERA5, NASA POWER) ve makine öğrenmesini birleştirip sonuçları masaüstü araçlarına dönüştürüyorum; Wave Energy App yöntemini ve denklemlerini de kendisi anlatır.
 
 - **Wave Energy App** (özel depo): Türkiye denizleri için dalga enerjisi karar destek programı. Referans dalga enerjisi dönüştürücüleri (RM3, RM5, RM6) için yıllık enerji, kapasite faktörü ve LCOE'yi SAM 2026.7.3 ile hesaplar; cihazları, yerleri, veri kaynaklarını ve yılları karşılaştırır; makine öğrenmesi, bölgesel regresyon ve tasarım deneyiyle sınar; H1–H3 hipotezlerini otomatik değerlendirir (H1 ve H2'yi sabit eşiklerle); Türkçe ve İngilizce rapor üretir.
-- **Güneş Enerjisi Potansiyeli**: Seçilen yer ve tarih aralığı için NASA POWER verisinden güneş enerjisi potansiyelini hesaplayan, panel türüne göre enerji çıkaran ve makine öğrenmesiyle ileriye dönük tahmin yapan masaüstü uygulaması.
+- **[Güneş Enerjisi Potansiyeli](https://github.com/Lutfialpergundogdu/Gunes_enerjisi_potansiyeli)**: Seçilen yer ve tarih aralığı için NASA POWER verisinden güneş enerjisi potansiyelini hesaplayan, panel türüne göre enerji çıkaran ve makine öğrenmesiyle ileriye dönük tahmin yapan masaüstü uygulaması.
 - **Makale (hazırlanıyor):** *Wave Energy Assessment through Simulation and Machine Learning in the Çanakkale Region*.
