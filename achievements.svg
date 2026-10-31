@@ -9,7 +9,8 @@
   <text class="m x" x="292" y="70">1 · unlocks at 2 (1 to go)</text>
   <text class="t s" x="20" y="96">Starstruck</text>
   <rect class="track" x="130" y="86" rx="4" width="150" height="10"/>
-  <text class="m x" x="292" y="96">0 · unlocks at 16 (16 to go)</text>
+  <rect class="bar" x="130" y="86" rx="4" width="9" height="10"/>
+  <text class="m x" x="292" y="96">1 · unlocks at 16 (15 to go)</text>
   <text class="t s" x="20" y="122">Galaxy Brain</text>
   <rect class="track" x="130" y="112" rx="4" width="150" height="10"/>
   <text class="m x" x="292" y="122">0 · unlocks at 2 (2 to go)</text>
