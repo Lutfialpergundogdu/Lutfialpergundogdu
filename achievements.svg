@@ -5,8 +5,8 @@
   <text class="t h" x="20" y="34">GitHub achievements for @Lutfialpergundogdu</text>
   <text class="t s" x="20" y="70">Pull Shark</text>
   <rect class="track" x="130" y="60" rx="4" width="150" height="10"/>
-  <rect class="bar" x="130" y="60" rx="4" width="75" height="10"/>
-  <text class="m x" x="292" y="70">1 · unlocks at 2 (1 to go)</text>
+  <rect class="bar" x="130" y="60" rx="4" width="27" height="10"/>
+  <text class="m x" x="292" y="70">3 · unlocked, x2 at 16 (13 to go)</text>
   <text class="t s" x="20" y="96">Starstruck</text>
   <rect class="track" x="130" y="86" rx="4" width="150" height="10"/>
   <rect class="bar" x="130" y="86" rx="4" width="9" height="10"/>
@@ -17,7 +17,7 @@
   <text class="t s" x="20" y="156" font-weight="600">One-time &amp; Profile highlights</text>
   <circle class="ok" cx="26" cy="176" r="5"/>
   <text class="t s" x="38" y="180">Quickdraw</text>
-  <circle class="no" cx="266" cy="176" r="5"/>
+  <circle class="ok" cx="266" cy="176" r="5"/>
   <text class="t s" x="278" y="180">YOLO</text>
   <circle class="no" cx="26" cy="200" r="5"/>
   <text class="t s" x="38" y="204">Public Sponsor</text>
