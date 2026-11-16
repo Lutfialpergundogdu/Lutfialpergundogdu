@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Lütfi Alper Gündoğdu, Energy Management, MSc researcher in energy data and optimization">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1F3A"/>
+      <stop offset="0.55" stop-color="#0F2F4F"/>
+      <stop offset="1" stop-color="#0B4F5C"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <!-- subtle grid lines for a technical feel -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1">
+    <path d="M760 0V300M840 0V300M920 0V300M1000 0V300M1080 0V300M1160 0V300"/>
+    <path d="M720 60H1200M720 120H1200M720 180H1200M720 240H1200"/>
+  </g>
+  <!-- simple production curve, no symbols -->
+  <path d="M720 230 C 790 230, 820 120, 900 110 S 1010 200, 1080 150 S 1160 90, 1200 100" fill="none" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="3"/>
+  <path d="M720 250 C 800 245, 840 175, 920 165 S 1030 220, 1100 195 S 1170 160, 1200 165" fill="none" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="2"/>
+  <rect x="0" y="0" width="720" height="300" fill="url(#fade)" opacity="0.4"/>
+
+  <text x="60" y="78" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#7DD3FC" font-weight="600">ENERGY MANAGEMENT  ·  ENERGY DATA  ·  OPTIMIZATION</text>
+  <text x="58" y="140" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" fill="#FFFFFF" font-weight="700">Lütfi Alper Gündoğdu</text>
+  <text x="60" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#E2E8F0">MSc Researcher in Energy Resources and Management</text>
+  <text x="60" y="216" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#94A3B8">Çanakkale Onsekiz Mart University  ·  TÜBİTAK 1002-A Graduate Scholar  ·  Türkiye</text>
+
+  <!-- colour bar -->
+  <rect x="60" y="246" width="70" height="6" rx="3" fill="#38BDF8"/>
+  <rect x="138" y="246" width="70" height="6" rx="3" fill="#10B981"/>
+  <rect x="216" y="246" width="70" height="6" rx="3" fill="#F59E0B"/>
+  <rect x="294" y="246" width="70" height="6" rx="3" fill="#EF4444"/>
+</svg>

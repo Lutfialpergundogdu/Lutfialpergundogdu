@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Highlights: TÜBİTAK 1002-A wave energy project, 2 publications, 5 energy software tools, TEİAŞ substation internship">
+  <style>
+    .k { font-family: Segoe UI, Helvetica Neue, Arial, sans-serif; font-size: 34px; font-weight: 700; fill: #0F172A; }
+    .t { font-family: Segoe UI, Helvetica Neue, Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #1E293B; }
+    .s { font-family: Segoe UI, Helvetica Neue, Arial, sans-serif; font-size: 14px; fill: #475569; }
+  </style>
+  <g>
+    <rect x="0" y="0" width="285" height="170" rx="12" fill="#F0F9FF" stroke="#BAE6FD"/>
+    <rect x="0" y="0" width="285" height="8" rx="4" fill="#0EA5E9"/>
+    <text x="24" y="62" class="k">1002-A</text>
+    <text x="24" y="96" class="t">TÜBİTAK research project</text>
+    <text x="24" y="122" class="s">Wave energy forecasting with</text>
+    <text x="24" y="142" class="s">digital twin and machine learning</text>
+  </g>
+  <g transform="translate(305,0)">
+    <rect x="0" y="0" width="285" height="170" rx="12" fill="#ECFDF5" stroke="#A7F3D0"/>
+    <rect x="0" y="0" width="285" height="8" rx="4" fill="#10B981"/>
+    <text x="24" y="62" class="k">2</text>
+    <text x="24" y="96" class="t">Publications</text>
+    <text x="24" y="122" class="s">ML wind energy forecasting (2025)</text>
+    <text x="24" y="142" class="s">Wind turbine tower analysis (2022)</text>
+  </g>
+  <g transform="translate(610,0)">
+    <rect x="0" y="0" width="285" height="170" rx="12" fill="#FFFBEB" stroke="#FDE68A"/>
+    <rect x="0" y="0" width="285" height="8" rx="4" fill="#F59E0B"/>
+    <text x="24" y="62" class="k">5</text>
+    <text x="24" y="96" class="t">Energy analysis tools</text>
+    <text x="24" y="122" class="s">Solar, wind and wave assessment</text>
+    <text x="24" y="142" class="s">with NREL SAM / PySAM and pvlib</text>
+  </g>
+  <g transform="translate(915,0)">
+    <rect x="0" y="0" width="285" height="170" rx="12" fill="#FEF2F2" stroke="#FECACA"/>
+    <rect x="0" y="0" width="285" height="8" rx="4" fill="#EF4444"/>
+    <text x="24" y="62" class="k">TEİAŞ</text>
+    <text x="24" y="96" class="t">Grid field experience</text>
+    <text x="24" y="122" class="s">Substations and high-voltage</text>
+    <text x="24" y="142" class="s">transmission, 5th Regional Directorate</text>
+  </g>
+</svg>

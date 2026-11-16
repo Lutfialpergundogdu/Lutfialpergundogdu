@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Experience">
+  <rect x="0" y="14" width="8" height="36" rx="3" fill="#10B981"/>
+  <text x="26" y="43" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#10B981">Experience</text>
+  <rect x="26" y="56" width="1174" height="2" fill="#94A3B8" fill-opacity="0.35"/>
+  <rect x="26" y="56" width="140" height="2" fill="#10B981"/>
+</svg>
