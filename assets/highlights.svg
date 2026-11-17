@@ -28,12 +28,4 @@
     <text x="24" y="122" class="s">Solar, wind and wave assessment</text>
     <text x="24" y="142" class="s">with NREL SAM / PySAM and pvlib</text>
   </g>
-  <g transform="translate(915,0)">
-    <rect x="0" y="0" width="285" height="170" rx="12" fill="#FEF2F2" stroke="#FECACA"/>
-    <rect x="0" y="0" width="285" height="8" rx="4" fill="#EF4444"/>
-    <text x="24" y="62" class="k">TEİAŞ</text>
-    <text x="24" y="96" class="t">Grid field experience</text>
-    <text x="24" y="122" class="s">Substations and high-voltage</text>
-    <text x="24" y="142" class="s">transmission, 5th Regional Directorate</text>
-  </g>
 </svg>
