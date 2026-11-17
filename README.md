@@ -12,7 +12,9 @@
 
 <br>
 
-<img src="assets/highlights.svg" alt="Highlights" width="100%">
+<p align="center">
+  <img src="assets/highlights.svg" alt="Highlights" width="100%">
+</p>
 
 <br>
 
