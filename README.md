@@ -349,7 +349,7 @@ Enerji Yönetimi mezunuyum ve Çanakkale Onsekiz Mart Üniversitesi'nde Enerji K
 <details>
   <summary><b>GitHub achievements</b></summary>
   <br>
-  <img src="achievements.svg" alt="GitHub achievements">
+  <img src="achievements.svg?v=20261117" alt="GitHub achievements">
   <br>
   <sub>Refreshed by a scheduled workflow from <a href="https://github.com/Lutfialpergundogdu/gh-achievements">gh-achievements</a>.</sub>
 </details>
