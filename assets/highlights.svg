@@ -20,12 +20,4 @@
     <text x="24" y="122" class="s">ML wind energy forecasting (2025)</text>
     <text x="24" y="142" class="s">Wind turbine tower analysis (2022)</text>
   </g>
-  <g transform="translate(610,0)">
-    <rect x="0" y="0" width="285" height="170" rx="12" fill="#FFFBEB" stroke="#FDE68A"/>
-    <rect x="0" y="0" width="285" height="8" rx="4" fill="#F59E0B"/>
-    <text x="24" y="62" class="k">5</text>
-    <text x="24" y="96" class="t">Energy analysis tools</text>
-    <text x="24" y="122" class="s">Solar, wind and wave assessment</text>
-    <text x="24" y="142" class="s">with NREL SAM / PySAM and pvlib</text>
-  </g>
 </svg>
